@@ -30,10 +30,13 @@
 				<li class="active"><a href="DisplayStudent">学生信息管理<span
 						class="arrow"></span></a>
 					<ul class="drop-menu">
-						<li><a href="insert.jsp">添加学生记录</a></li>
+						<li><a href="insertStudent.jsp">添加学生记录</a></li>
 					</ul></li>
 				<li class="active"><a href="DisplayCourse">课程信息管理<span
 						class="arrow"></span></a>
+						<ul class="drop-menu">
+							<li><a href="insertCourse">添加课程管理</a></li>
+						</ul>
 				<li><a href="#">选课信息管理</a></li>
 			</ul>
 		</div>
